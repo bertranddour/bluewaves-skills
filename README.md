@@ -7,7 +7,7 @@ A Claude Code plugin marketplace featuring AI-powered media generation and docum
 Add this marketplace to Claude Code:
 
 ```bash
-/plugin marketplace add bluewaves/skills
+/plugin marketplace add git@github.com:bertranddour/bluewaves-skills.git
 ```
 
 ## Available Plugins

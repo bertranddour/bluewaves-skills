@@ -6,7 +6,7 @@ Generate validated EPUB 3 ebooks from markdown files and images.
 
 ```bash
 # Add the Bluewaves marketplace
-/plugin marketplace add bluewaves/skills
+/plugin marketplace add git@github.com:bertranddour/bluewaves-skills.git
 
 # Install this plugin
 /plugin install epub-generator@bluewaves-skills
