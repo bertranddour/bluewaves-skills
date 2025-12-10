@@ -30,6 +30,7 @@ Edit and transform existing images using text prompts with Google's Gemini 3 Pro
 | `resolution` | string | "1K" | "1K", "2K", "4K" |
 | `sync_mode` | boolean | false | Returns data URI when true |
 | `enable_web_search` | boolean | false | Uses current web data for generation |
+| `limit_generations` | boolean | false | Restricts to 1 image per prompt round |
 
 ## Usage
 
