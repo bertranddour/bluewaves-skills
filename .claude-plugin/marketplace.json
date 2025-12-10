@@ -1,0 +1,21 @@
+{
+  "name": "bluewaves-skills",
+  "owner": {
+    "name": "Bertrand Dour",
+    "email": "bertrand.dour@7flows.com"
+  },
+  "plugins": [
+    {
+      "name": "fal-media",
+      "source": "./plugins/fal-media",
+      "description": "fal.ai media generation (Gemini images, Veo videos)",
+      "version": "1.0.0"
+    },
+    {
+      "name": "epub-generator",
+      "source": "./plugins/epub-generator",
+      "description": "Generate validated EPUB from markdown and images",
+      "version": "1.0.0"
+    }
+  ]
+}
