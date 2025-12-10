@@ -58,6 +58,29 @@ Generate validated EPUB 3 ebooks from markdown and images.
 "Create an EPUB from the markdown files in ./chapters"
 ```
 
+## Team Distribution
+
+Add to your project's `.claude/settings.json` for automatic marketplace loading:
+
+```json
+{
+  "extraKnownMarketplaces": {
+    "bluewaves-skills": {
+      "source": {
+        "source": "github",
+        "repo": "bertranddour/bluewaves-skills"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "fal-media@bluewaves-skills": true,
+    "epub-generator@bluewaves-skills": true
+  }
+}
+```
+
+Team members who trust the repository will have the marketplace and plugins automatically available.
+
 ## Requirements
 
 - Claude Code CLI
