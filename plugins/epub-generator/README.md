@@ -15,12 +15,12 @@ Generate validated EPUB 3 ebooks from markdown files and images.
 ## Prerequisites
 
 ```bash
-pip install ebooklib markdown
+uv pip install ebooklib markdown
 ```
 
 Optional for validation:
 ```bash
-pip install epubcheck
+uv pip install epubcheck
 ```
 
 ## Skills Included

@@ -43,7 +43,7 @@ Generate validated EPUB 3 ebooks from markdown and images.
 **Skills:**
 - `epub-creator` - Convert markdown files to EPUB with cover, TOC, and styling
 
-**Prerequisites:** `pip install ebooklib markdown`
+**Prerequisites:** `uv pip install ebooklib markdown`
 
 ## Usage Examples
 

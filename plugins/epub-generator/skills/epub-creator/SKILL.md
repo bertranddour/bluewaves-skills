@@ -10,12 +10,12 @@ Create validated, publication-ready EPUB 3 ebooks from markdown files and images
 ## Prerequisites
 
 ```bash
-pip install ebooklib markdown Pillow beautifulsoup4 lxml
+uv pip install ebooklib markdown Pillow beautifulsoup4 lxml
 ```
 
 Optional for validation:
 ```bash
-pip install epubcheck
+uv pip install epubcheck
 ```
 
 ## Production Workflow
