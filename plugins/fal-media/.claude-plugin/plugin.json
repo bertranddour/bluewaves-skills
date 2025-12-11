@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "fal.ai media generation skills for Gemini image generation and Veo video creation",
   "author": {
-    "name": "Bertrand Dour",
-    "email": "bertrand.dour@7flows.com"
+    "name": "Bluewaves Team",
+    "email": "contact@bluewaves.boutique"
   },
   "repository": "https://github.com/bluewaves-creations/bluewaves-skills",
   "license": "MIT",

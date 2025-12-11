@@ -146,7 +146,7 @@ MIT
 
 ## Author
 
-Bertrand Dour (bertrand.dour@7flows.com)
+Bluewaves Team (contact@bluewaves.boutique)
 
 ## Changelog
 

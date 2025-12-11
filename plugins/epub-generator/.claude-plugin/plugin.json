@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "Generate validated EPUB ebooks from markdown files and images",
   "author": {
-    "name": "Bertrand Dour",
-    "email": "bertrand.dour@7flows.com"
+    "name": "Bluewaves Team",
+    "email": "contact@bluewaves.boutique"
   },
   "repository": "https://github.com/bluewaves-creations/bluewaves-skills",
   "license": "MIT",
